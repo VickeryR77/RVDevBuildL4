@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.exe
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.deps.json
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.dll
+C:\Users\RVICKERY\source\repos\StudentArray\bin\Debug\netcoreapp3.1\StudentArray.pdb
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.csprojAssemblyReference.cache
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.dll
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.pdb
+C:\Users\RVICKERY\source\repos\StudentArray\obj\Debug\netcoreapp3.1\StudentArray.genruntimeconfig.cache
