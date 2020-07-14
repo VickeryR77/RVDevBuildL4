@@ -34,9 +34,9 @@ namespace StudentArray
 
         public static void Build()
         {
-            string[] name = { "", "Alfred Abaddon", "Bert Baal", "Chris Caim", "Dean Winchester", "Earl Eligos", "Fergus MacLeod", "Greg Gremory", "Howard Halphas", "Ignis Ifrit", "Justin Jinn", "Keran Krampus", "Luke Legion", "Mark Malphas", "Nate Naberius", "Orion Orobas", "Pete Pazuzu" };
-            string[] title = { "", "1st Grade", "1st Grade", "2nd Grade", "Hunter", "3rd Grade", "3rd Grade", "4th Grade", "4th Grade", "5th Grade", "5th Grade", "6th Grade", "6th Grade", "7th Grade", "7th Grade", "8th Grade", "8th Grade" };
-            string[] candy = { "", "Twix", "Skittles", "Milkduds", "Pie", "Rock Candy", "Souls of the fallen", "Starburst", "Almond Joy", "Whatchamacallit", "Baby Ruth", "Big League Chew", "Ice Cream", "Chocolate", "Chocolate Truffles", "Tofifee", "Toblorone" };
+            string[] name = { "", "Alfred", "Bert", "Chris", "Dean", "Earl", "Fergus", "Greg", "Howard", "Ignis", "Justin", "Keran", "Luke", "Mark", "Nate", "Orion", "Pete" };
+            string[] title = { "", "1st Grade", "1st Grade", "2nd Grade", "2nd Grade", "3rd Grade", "3rd Grade", "4th Grade", "4th Grade", "5th Grade", "5th Grade", "6th Grade", "6th Grade", "7th Grade", "7th Grade", "8th Grade", "8th Grade" };
+            string[] candy = { "", "Twix", "Skittles", "Milkduds", "Pie", "Rock Candy", "Lemonheads", "Starburst", "Almond Joy", "Whatchamacallit", "Baby Ruth", "Big League Chew", "Ice Cream", "Chocolate", "Chocolate Truffles", "Tofifee", "Toblorone" };
 
 
             bool running = true;
