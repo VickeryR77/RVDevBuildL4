@@ -168,8 +168,7 @@ namespace StudentArray
         {
 
 
-            string[] name = { "", "Alfred Abaddon", "Bert Baal", "Chris Caim", "Dean Winchester", "Earl Eligos", "Fergus MacLeod", "Greg Gremory", "Howard Halphas", "Ignis Ifrit", "Justin Jinn", "Keran Krampus", "Luke Legion", "Mark Malphas", "Nate Naberius", "Orion Orobas", "Pete Pazuzu" };
-
+            string[] name = { "", "Alfred", "Bert", "Chris", "Dean", "Earl", "Fergus", "Greg", "Howard", "Ignis", "Justin", "Keran", "Luke", "Mark", "Nate", "Orion", "Pete" };
             Console.WriteLine("");
             for (int i = 1; i < name.Length; i++)
             {
